@@ -1,2 +1,2 @@
 # obds_linux
-linux training course_2025
+obds_linux_training_course_01102025
